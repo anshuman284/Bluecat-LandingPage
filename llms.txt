@@ -1,0 +1,37 @@
+# Blue Cat Technologies
+
+> Building high-impact consumer SaaS products that simplify and automate digital workflows with invisible logic.
+
+## Overview
+Blue Cat Technologies is focused on creating "Fluid Intelligence" - technology that disappears into the workflow and reclaims human focus. Our tools are designed as agile utilities that bridge the gap between user intent and goal achievement.
+
+## Products
+
+### Resonate-CV (Flagship)
+*   **Description:** Tailor professional narratives to specific opportunities without losing authentic voice.
+*   **Key Features:** Narrative preservation, Zero-friction export.
+*   **Status:** Coming 2026.
+
+### Signal-Mail
+*   **Description:** An intelligent communication layer that prioritizes intent over inbox volume.
+*   **Key Features:** Intent-based filtering, Contextual summaries.
+*   **Status:** Active R&D.
+
+### Echo-Notes
+*   **Description:** Distills complex conversations into high-impact decisions and actionable intent in real-time.
+*   **Key Features:** Decision mapping, Real-time distillation.
+*   **Status:** Internal Beta.
+
+### Quantum-Tasks
+*   **Description:** Predictive workflow navigation that automates mundane preparation.
+*   **Key Features:** Predictive prep, Workflow automation.
+*   **Status:** Concept.
+
+## Philosophy: Fluid Intelligence
+1.  **Agile Utilities:** Small tools, massive impact. Atomic bridges to goals.
+2.  **Invisible Logic:** Focus on results, not mechanisms. Technology disappears into the workflow.
+3.  **Human-First:** Automation to reclaim focus for what truly matters.
+
+## Contact
+*   **Email:** contact@blue-cat.in
+*   **Jurisdiction:** Indian Jurisdiction
